@@ -1,0 +1,19 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Feb 20 16:04:38 2024"
+  rime_version: 1.8.5
+patch:
+  "style/font_face": "Microsoft YaHei"
+  "style/label_font_face": "Microsoft YaHei"
+  "style/comment_font_face": "Microsoft YaHei"
+  "style/color_scheme": google
+  "style/horizontal": true
+  "style/inline_preedit": false
+  "style/layout/hilite_padding": 2
+  "style/layout/round_corner": 6
+  "style/layout/shadow_radius": 10
+  "style/layout/candidate_spacing": 10
+  "style/preset_color_schemes/google/shadow_color": 0x000000b4
+  "style/preset_color_schemes/google/hilited_candidate_shadow_color": 0x000000b4
